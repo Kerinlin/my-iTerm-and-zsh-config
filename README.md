@@ -4,8 +4,12 @@ Record for next computer
 
 ### Full
 
-![](full.png)
+![Full](full.png)
 
 ### Split
 
-![](split.png)
+![Split](split.png)
+
+### Background Image
+
+![Background Image](backgroundImage2560x1600.png)
